@@ -15,4 +15,4 @@ tujpe etbaar kyun hain
 <br>
 kyun hain yeh khumaar kyun hain tu bata
 <br> 
-tu bata 
+
