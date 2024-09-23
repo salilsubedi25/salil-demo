@@ -6,6 +6,7 @@ author- Salil subedi
 welcome to our restro
 </br>
 <br>
-size"25" we serve you a well defined pleasutre of satisfaction.
+<body bgcolor="black" text="white"
+  
 </br> 
 
