@@ -5,7 +5,6 @@ author- Salil subedi
 <br> 
 welcome to our restro
 
-<br>
 <body bgcolor="black" text="white"
   
 
